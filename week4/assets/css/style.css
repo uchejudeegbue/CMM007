@@ -1,0 +1,27 @@
+
+h1 {
+
+    TEXT-ALIGN: center;
+    FONT-SIZE: 40px;
+}
+
+Nav ul li {
+    display:inline;
+    padding: 10px;
+    border:1px cornflowerblue solid;
+    text-align: center;
+}
+Nav ul li a {
+    text-decoration: none;
+
+}
+Nav {
+    text-align: center;
+}
+h2 {
+    color: red;
+}
+
+div img {
+    :40px;
+}
