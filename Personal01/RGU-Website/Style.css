@@ -3,11 +3,18 @@ color: purple;
 
 }
 #first{
-    font-size:10pt;
+    font-size:9pt;
     font-family: times;
+    float: right;
+
+
+}
+
+#first a {
     color: black;
 
 }
+
 p{
     font-size:10pt;
 
@@ -19,4 +26,3 @@ ul li a{
     font-size:12pt;
     color:purple;
 
-}
