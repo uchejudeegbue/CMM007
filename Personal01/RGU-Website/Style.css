@@ -1,0 +1,22 @@
+h3 {
+color: purple;
+
+}
+#first{
+    font-size:10pt;
+    font-family: times;
+    color: black;
+
+}
+p{
+    font-size:10pt;
+
+}
+body{
+    background-color: seashell;
+}
+ul li a{
+    font-size:12pt;
+    color:purple;
+
+}
