@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="C:\Users\1418349\PhpstormProjects\CMM007\Person\CMM007" vcs="Git" />
+    <mapping directory="C:\Users\1418349\PhpstormProjects\CMM007\Personal\CMM007" vcs="Git" />
   </component>
 </project>
