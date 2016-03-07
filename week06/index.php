@@ -24,7 +24,7 @@ $myage = "16<br>";
 if ($myage == 16){
     echo "Buy Specs<br>";
 }
-else if ($myage > 18) {
+else if (($myage > 18)&&($myage <= 21)) {
     echo "Buy Mugs<br>";
 }
 else if ($myage > 21){
