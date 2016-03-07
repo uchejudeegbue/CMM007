@@ -8,4 +8,7 @@
 
 echo "hello world";
 echo "Hello," . " " . "world" . "!";
+$myname = "Uche jude Egbue";
+$an = "adult";
+echo "My name is" . "myname" . "I am an" . "an";
 ?>
