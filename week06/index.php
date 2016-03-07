@@ -6,9 +6,9 @@
  * Time: 09:56
  */
 
-echo "hello world";
-echo "Hello," . " " . "world" . "!";
-$myname = "Uche jude Egbue";
-$an = "adult";
+echo "hello world <br>";
+echo "Hello," . " " . "world" . "!"<br>;
+$myname = "Uche jude Egbue"<br>;
+$an = "adult<br>";
 echo "My name is" . "$myname" . "I am an" . "$an";
 ?>
