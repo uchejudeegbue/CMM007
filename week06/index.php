@@ -18,4 +18,15 @@ if ($name == Uju){
 else {
     echo "who are you<br>";
 }
+echo "Aberdeen is the home of specs, mugs and suggage rolls.<br>";
+$myage = "16<br>";
+if (myage == 16){
+    echo "Buy Specs<br>";
+}
+else if (myage > 18) && (myage <= 21){
+    echo "Buy Mugs<br>";
+}
+else if (myage > 21){
+    echo "Buy Suggage Rolls"
+}
 ?>
