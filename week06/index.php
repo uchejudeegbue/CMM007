@@ -30,4 +30,5 @@ else if (($myage > 18)&&($myage <= 21)) {
 else if ($myage > 21){
     echo "Buy Suggage Rolls";
 }
+
 ?>
