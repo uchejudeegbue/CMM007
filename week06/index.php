@@ -7,12 +7,15 @@
  */
 
 echo "hello world <br>";
-echo "Hello," . " " . "world" . "!" < br>;
-$myname = "Uche jude Egbue" < br>;
+echo "Hello," . " " . "world" . "!<br>";
+$myname = "Uche jude Egbue<br>";
 $an = "adult<br>";
-echo "My name is" . "$myname" . "I am an" . "$an";
-$name = "Uju";
-if (name == Uju){
-    echo "I know you";
+echo "My name is" . "$myname" . "I am an" . "$an<br>";
+$name = "Uju<br>";
+if ($name == Uju){
+    echo "I know you<br>";
+}
+else {
+    echo "who are you<br>";
 }
 ?>
