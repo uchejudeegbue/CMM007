@@ -2,82 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0143da87-0d74-4685-b723-bf1991bd9473" name="Default" comment="Start">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Design/Style.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/A to Z.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/About.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Alumni &amp; Giving.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Architecture, Construction &amp; Surveying.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Areas of study.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Art &amp; Design.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Business Services.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Business, Management &amp; Accounting.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Computing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Contact us.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Engineering.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Facebook.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Flickr.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Future Students.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/GooglePlus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Health Professions.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Information, Communication &amp; Media.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Instagram.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/InternationalStudents.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Laboratory, Biomedical &amp; Sports Sciences.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Law.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/LinkedIn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/News &amp; Events.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Pinterest.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/PostgraduateOpenEvening.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/RGULogo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/RGUMainPicture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/RGyoU.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Research.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Social Work &amp; Social Sciences.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Staff &amp; Current Student.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Student Life.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Twitter.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/VisitUs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/Youtube.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/RGU-Website/unsemantic-grid-responsive-tablet.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Personal01/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week01/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week02/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week03/tuesday/cheese.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week03/tuesday/favourite.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week03/tuesday/gouda.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week03/tuesday/help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week03/tuesday/history.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week03/tuesday/images.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week03/tuesday/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week03/tuesday/index.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week03/tuesday/jokes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week03/tuesday/mascarpone.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week04/assets/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week04/assets/images/mug1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week04/assets/images/mug2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week04/assets/images/mug3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week04/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week04/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week04/signup.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week05/HTMLandCSSLab/Assets.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week05/HTMLandCSSLab/Style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week05/HTMLandCSSLab/banner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week05/HTMLandCSSLab/chrisinajayne.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week05/HTMLandCSSLab/csdmlogo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week05/HTMLandCSSLab/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/week05/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMM007/.idea/workspace.xml" afterPath="$PROJECT_DIR$/CMM007/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Design/index.html" afterPath="$PROJECT_DIR$/Design/index.html" />
     </list>
     <ignored path="CMM007.iws" />
@@ -100,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Design/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24210526">
-              <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Design/Style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8846154">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -144,8 +69,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="106" />
     <option name="y" value="39" />
-    <option name="width" value="740" />
-    <option name="height" value="496" />
+    <option name="width" value="1017" />
+    <option name="height" value="505" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -172,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -205,14 +131,74 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CMM007" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CMM007" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CMM007" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CMM007" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CMM007" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CMM007" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Personal01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CMM007" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CMM007" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CMM007" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Personal01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RGU-Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aaa" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\UCHE EGBUE BENDAC\PhpstormProjects\Design\week05\CMM007\CMM007\week05\HTMLandCSSLab\CMM007\Design" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -255,15 +241,27 @@
       <option name="number" value="Default" />
       <updated>1456898096036</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start">
+      <created>1457097294374</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1457097294374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Start">
+      <created>1457103580160</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1457103580160</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="106" y="39" width="740" height="496" extended-state="0" />
-    <editor active="true" />
+    <frame x="106" y="39" width="1017" height="505" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26617646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19331244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -271,6 +269,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32171583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -293,18 +292,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Design/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Design/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8846154">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Design/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24210526">
-          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Design/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
