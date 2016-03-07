@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86b8256b-7779-4a23-830c-1b0fe3104a32" name="Default" comment="week06">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/week06/MyFirstPhp.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/week06/MyFirstPhp.php" afterPath="$PROJECT_DIR$/week06/MyPhp.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="293cb30b-80b4-44b0-bfed-ede8a05149f2" name="New changelist" comment="" />
@@ -28,7 +30,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week06/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-6.5384617">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
@@ -85,10 +87,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFirstPhp.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week06/MyFirstPhp.php">
+      <file leaf-file-name="MyPhp.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week06/MyPhp.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27091634">
+            <state vertical-scroll-proportion="0.3261391">
               <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding>
                 <element signature="e#6#100#0#PHP" expanded="true" />
@@ -145,6 +147,7 @@
         <option value="$PROJECT_DIR$/week05/HtmlLab2/index.html" />
         <option value="$PROJECT_DIR$/week06/HtmlLab2/index.html" />
         <option value="$PROJECT_DIR$/week06/MyFirstPhp.php" />
+        <option value="$PROJECT_DIR$/week06/MyPhp.php" />
       </list>
     </option>
   </component>
@@ -158,7 +161,7 @@
     <option name="x" value="58" />
     <option name="y" value="28" />
     <option name="width" value="626" />
-    <option name="height" value="688" />
+    <option name="height" value="603" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -412,14 +415,26 @@
       <option name="project" value="LOCAL" />
       <updated>1457391117240</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="week06">
+      <created>1457391537510</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1457391537510</updated>
+    </task>
+    <task id="LOCAL-00019" summary="week06">
+      <created>1457391571710</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1457391571710</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="58" y="28" width="626" height="688" extended-state="0" />
-    <editor active="false" />
+    <frame x="58" y="28" width="626" height="603" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29681978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29681978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -469,7 +484,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week06/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-6.5384617">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
@@ -515,9 +530,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week06/MyFirstPhp.php">
+    <entry file="file://$PROJECT_DIR$/week06/MyPhp.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27091634">
+        <state vertical-scroll-proportion="0.3261391">
           <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding>
             <element signature="e#6#100#0#PHP" expanded="true" />
