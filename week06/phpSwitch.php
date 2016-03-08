@@ -19,11 +19,12 @@ switch ($numberOfHobbits) {
         break;
     default:
         echo "all hobbits have gone home";
+        "br>";
 }
 
-$wantedgood = "mugs";
+$wantedgood = "18";
 switch ($wantedgood){
-    case 1:
+    case 18:
         echo "You have to be 18 to buy mugs";
         break;
     default:
