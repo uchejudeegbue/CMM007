@@ -5,7 +5,7 @@
  * Date: 08/03/2016
  * Time: 09:37
  */
-$numberOfHobbits = "2";
+$numberOfHobbits = "3";
 
 switch ($numberOfHobbits) {
     case 1:
