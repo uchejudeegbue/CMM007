@@ -22,7 +22,7 @@ switch ($numberOfHobbits) {
 
 }
 
-$wantedgood = "specs";
+$wantedgood = "mugs";
 switch ($wantedgood){
     case specs:
         echo "You have to be over 16 to buy specs";
