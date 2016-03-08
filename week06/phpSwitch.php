@@ -19,7 +19,7 @@ switch ($numberOfHobbits) {
         break;
     default:
         echo "all hobbits have gone home";
-       echo "br>";
+       echo " br>";
 }
 
 $wantedgood = "18";
