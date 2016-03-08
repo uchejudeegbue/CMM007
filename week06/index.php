@@ -27,7 +27,7 @@ if ($myage == 16) {
 } else if ($myage > 21) {
     echo "Buy Suggage Rolls";
 }
-$numberOfHobbitts = "2<br>";
+$numberOfHobbits = "2";
 
 switch ($noOfHobbits) {
     case 1:
@@ -43,4 +43,9 @@ switch ($noOfHobbits) {
         echo "all hobbits have gone home";
 }
 
+switch ($wantedgood){
+    case 1:
+        echo "You have to be 18 years to buy mugs";
+        break;
+}
 ?>
