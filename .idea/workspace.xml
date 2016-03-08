@@ -69,8 +69,8 @@
       <file leaf-file-name="phpSwitch.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week06/phpSwitch.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5589041">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.6520548">
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -531,7 +531,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457432436899</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="week06">
+      <created>1457432520754</created>
+      <option name="number" value="00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1457432520754</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -701,8 +707,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week06/phpSwitch.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5589041">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.6520548">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
           <folding />
         </state>
       </provider>

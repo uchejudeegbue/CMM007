@@ -26,6 +26,7 @@ $wantedgood = "specs";
 switch ($wantedgood){
     case "specs":
         echo "You have to be over 16 to buy specs";
+        break;
     case "mugs":
         echo "You have to be over 18 to buy mugs";
         break;
