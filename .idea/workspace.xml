@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86b8256b-7779-4a23-830c-1b0fe3104a32" name="Default" comment="week06">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week06/phpSwitch.php" afterPath="$PROJECT_DIR$/week06/phpSwitch.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="293cb30b-80b4-44b0-bfed-ede8a05149f2" name="New changelist" comment="" />
@@ -537,12 +536,18 @@
       <option name="project" value="LOCAL" />
       <updated>1457432520754</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="week06">
+      <created>1457432628005</created>
+      <option name="number" value="00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1457432628005</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="117" width="940" height="892" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3051948" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
