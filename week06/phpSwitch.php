@@ -15,10 +15,10 @@ switch ($numberOfHobbits) {
         echo "2 happy hobbits";
         break;
     case 3:
-        echo "3 hobbits are a crowd";
+        echo "3 hobbits are a crowd <br>";
         break;
     default:
-        echo "all hobbits have gone home <br>";
+        echo "all hobbits have gone home";
 
 }
 
