@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86b8256b-7779-4a23-830c-1b0fe3104a32" name="Default" comment="week06">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week06/phpSwitch.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week06/phpSwitch.php" afterPath="$PROJECT_DIR$/week06/phpSwitch.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="293cb30b-80b4-44b0-bfed-ede8a05149f2" name="New changelist" comment="" />
@@ -59,8 +59,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week06/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.423077">
-              <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+            <state vertical-scroll-proportion="-15.692307">
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,8 +69,8 @@
       <file leaf-file-name="phpSwitch.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week06/phpSwitch.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.53561646">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -156,6 +156,7 @@
         <option value="$PROJECT_DIR$/week06/MyFirstPhp.php" />
         <option value="$PROJECT_DIR$/week06/MyPhp.php" />
         <option value="$PROJECT_DIR$/week06/index.php" />
+        <option value="$PROJECT_DIR$/week06/phpSwitch.php" />
       </list>
     </option>
   </component>
@@ -464,7 +465,19 @@
       <option name="project" value="LOCAL" />
       <updated>1457429371195</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="week06">
+      <created>1457429833208</created>
+      <option name="number" value="00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1457429833208</updated>
+    </task>
+    <task id="LOCAL-00026" summary="week06">
+      <created>1457429905867</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1457429905867</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -626,16 +639,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week06/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.423077">
-          <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
+        <state vertical-scroll-proportion="-15.692307">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week06/phpSwitch.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.53561646">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -21,9 +21,5 @@ switch ($numberOfHobbits) {
         echo "all hobbits have gone home";
 }
 
-switch ($wantedgood){
-    case 1:
-        echo "You have to be 18 years to buy mugs";
-        break;
-}
+
 ?>
