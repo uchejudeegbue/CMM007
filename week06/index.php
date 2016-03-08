@@ -29,7 +29,7 @@ if ($myage == 16) {
 }
 $numberOfHobbits = "2";
 
-switch ($noOfHobbits) {
+switch ($numberOfHobbits) {
     case 1:
         echo "1 sad hobbit";
         break;
