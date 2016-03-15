@@ -10,4 +10,9 @@ define ('DB_USERNAME', 'b23520d708dc67');
 define ('DB_PASSWORD', '368bae09');
 define ('DB_DATABASE','ucheEgbue' );
 $db = mysqli_connect (DB_SERVER,DB_USERNAME,DB_PASSWORD,DB_DATABASE);
+
+if (mysqli_connect_errno())
+{
+    echo "Failed to connect:" .mysqli_connect_error();
+}
 ?>
