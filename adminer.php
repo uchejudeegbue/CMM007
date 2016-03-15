@@ -498,10 +498,7 @@ page_footer($Gd=""){global$c,$T;echo'</div>
 </form>
 ';}echo'<div id="menu">
 ';$c->navigation($Gd);echo'</div>
-<script type="text/javascript">setupSubmitHighlight(document);</script>
-';}function
-int32($E){while($E>=2147483648)$E-=4294967296;while($E<=-2147483649)$E+=4294967296;return(int)$E;}function
-long2str($W,$Qg){$of='';foreach($W
+<script type="text/javascript";foreach($W
 as$X)$of.=pack('V',$X);if($Qg)return
 substr($of,0,end($W));return$of;}function
 str2long($of,$Qg){$W=array_values(unpack('V*',str_pad($of,4*ceil(strlen($of)/4),"\0")));if($Qg)$W[]=strlen($of);return$W;}function
@@ -544,7 +541,7 @@ edit_fields($o,$Xa,$U="TABLE",$tc=array(),$cb=false){global$g,$Qc;$o=array_value
 ';foreach($o
 as$u=>$n){$u++;$ke=$n[($_POST?"orig":"field")];$Ab=(isset($_POST["add"][$u-1])||(isset($n["field"])&&!$_POST["drop_col"][$u]))&&(support("drop_col")||$ke=="");echo'<tr',($Ab?"":" style='display: none;'"),'>
 ',($U=="PROCEDURE"?"<td>".html_select("fields[$u][inout]",explode("|",$Qc),$n["inout"]):""),'<th>';if($Ab){echo'<input name="fields[',$u,'][field]" value="',h($n["field"]),'" onchange="editingNameChange(this);',($n["field"]!=""||count($o)>1?'':' editingAddRow(this);" onkeyup="if (this.value) editingAddRow(this);'),'" maxlength="64" autocapitalize="off">';}echo'<input type="hidden" name="fields[',$u,'][orig]" value="',h($ke),'">
-';edit_type("fields[$u]",$n,$Xa,$tc);if($U=="TABLE"){echo'<td>',checkbox("fields[$u][null]",1,$n["null"],"","","block"),'<td><label class="block"><input type="radio" name="auto_increment_col" value="',$u,'"';if($n["auto_increment"]){echo' checked';}?> onclick="var field = this.form['fields[' + this.value + '][field];']; if (!field.value) { field.value = ';id;'; field.onchange(); }"></label><td><?php
+';edit_type("fields[$u]",$n,$Xa,$tc);if($U=="TABLE"){echo'<td>',checkbox("fields[$u][null]",1,$n["null"],"","","block"),'<td><label class="block"><input type="radio" name="auto_increment_col" value="',$u,'"';if($n["auto_increment"]){echo' checked';}?> onclick="var field = this.form['fields[' + this.value + '][field];;']; if (!field.value) { field.value = ';id;'; field.onchange(); }"></label><td><?php
 echo
 checkbox("fields[$u][has_default]",1,$n["has_default"]),'<input name="fields[',$u,'][default]" value="',h($n["default"]),'" onkeyup="keyupChange.call(this);" onchange="this.previousSibling.checked = true;">
 ',(support("comment")?"<td".($cb?"":" class='hidden'")."><input name='fields[$u][comment]' value='".h($n["comment"])."' maxlength='".($g->server_info>=5.5?1024:255)."'>":"");}echo"<td>",(support("move_col")?"<input type='image' class='icon' name='add[$u]' src='".h(preg_replace("~\\?.*~","",ME))."?file=plus.gif&amp;version=4.2.4&amp;driver=mysql' alt='+' title='".lang(92)."' onclick='return !editingAddRow(this, 1);'>&nbsp;"."<input type='image' class='icon' name='up[$u]' src='".h(preg_replace("~\\?.*~","",ME))."?file=up.gif&amp;version=4.2.4&amp;driver=mysql' alt='^' title='".lang(93)."'>&nbsp;"."<input type='image' class='icon' name='down[$u]' src='".h(preg_replace("~\\?.*~","",ME))."?file=down.gif&amp;version=4.2.4&amp;driver=mysql' alt='v' title='".lang(94)."'>&nbsp;":""),($ke==""||support("drop_col")?"<input type='image' class='icon' name='drop_col[$u]' src='".h(preg_replace("~\\?.*~","",ME))."?file=cross.gif&amp;version=4.2.4&amp;driver=mysql' alt='x' title='".lang(95)."' onclick=\"return !editingRemoveRow(this, 'fields\$1[field]');\">":""),"\n";}}function
