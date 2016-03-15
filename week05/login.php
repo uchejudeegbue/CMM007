@@ -16,7 +16,7 @@ else{
 }
 
 
-$sql="SELECT uid FROM users WHERE username='$username' and password='password'";
+$sql="SELECT uid FROM users WHERE username='$username' and password='$password'";
 
 $result=mysqli_query($db,$sql);
 
