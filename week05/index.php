@@ -19,8 +19,7 @@
         <br><br>
         <input type="submit" name="submit" value = "login"/>
     </form>
-    <div class="error"><?php //echo $error;?><?php //echo $username; echo
-        $password;?></div>
+    <div class="error"><?php //echo $error;?><?php //echo $username; echo $password;?></div>
 </div>
 </body>
 </html>
