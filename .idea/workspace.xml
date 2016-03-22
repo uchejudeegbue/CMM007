@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="86b8256b-7779-4a23-830c-1b0fe3104a32" name="Default" comment="week05">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week08/index.php" afterPath="$PROJECT_DIR$/week08/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week08/randompage.php" afterPath="$PROJECT_DIR$/week08/randompage.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="293cb30b-80b4-44b0-bfed-ede8a05149f2" name="New changelist" comment="" />
@@ -50,8 +49,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week08/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46850392">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.4015748">
+              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -385,12 +384,6 @@
       <option name="number" value="Default" />
       <updated>1456572167991</updated>
     </task>
-    <task id="LOCAL-00011" summary="week06">
-      <created>1457387407823</created>
-      <option name="number" value="00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1457387407837</updated>
-    </task>
     <task id="LOCAL-00012" summary="week06">
       <created>1457387752108</created>
       <option name="number" value="00012" />
@@ -679,7 +672,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458642754731</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="week05">
+      <created>1458642869833</created>
+      <option name="number" value="00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1458642869833</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1107,8 +1106,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week08/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46850392">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.4015748">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding />
         </state>
       </provider>
