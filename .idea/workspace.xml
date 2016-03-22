@@ -50,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/week08/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.27107063">
-              <caret line="14" column="82" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
+              <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -382,12 +382,6 @@
       <option name="number" value="Default" />
       <updated>1456572167991</updated>
     </task>
-    <task id="LOCAL-00003" summary="Personal was added">
-      <created>1457383115698</created>
-      <option name="number" value="00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1457383115699</updated>
-    </task>
     <task id="LOCAL-00004" summary="Personal was added">
       <created>1457384343116</created>
       <option name="number" value="00004" />
@@ -676,7 +670,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458639845793</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="week05">
+      <created>1458640157092</created>
+      <option name="number" value="00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1458640157092</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1105,7 +1105,7 @@
     <entry file="file://$PROJECT_DIR$/week08/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27107063">
-          <caret line="14" column="82" selection-start-line="14" selection-start-column="82" selection-end-line="14" selection-end-column="82" />
+          <caret line="14" column="79" selection-start-line="14" selection-start-column="79" selection-end-line="14" selection-end-column="79" />
           <folding />
         </state>
       </provider>
