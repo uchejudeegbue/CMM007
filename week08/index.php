@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <p lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title></title>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
 <p>
 
 <h1>Title</h1>
