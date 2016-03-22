@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86b8256b-7779-4a23-830c-1b0fe3104a32" name="Default" comment="week05">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/week08/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week08/index.html" afterPath="$PROJECT_DIR$/week08/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="293cb30b-80b4-44b0-bfed-ede8a05149f2" name="New changelist" comment="" />
@@ -49,8 +49,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week08/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2904328">
-              <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.309795">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -670,7 +670,13 @@
       <option name="project" value="LOCAL" />
       <updated>1458639394890</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="week05">
+      <created>1458639715289</created>
+      <option name="number" value="00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1458639715289</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1098,8 +1104,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week08/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2904328">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.309795">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding />
         </state>
       </provider>
