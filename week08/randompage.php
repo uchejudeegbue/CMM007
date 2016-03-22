@@ -17,7 +17,7 @@ echo "<p>This text is rendered first by the web server before being sent down</p
 $username = $_GET["username"];
 echo $username;
 
-echo "<p>Hello" . $username . "how are you today?</p>";
+echo "<p>Hello " . $username . " how are you today?</p>";
 echo "<p>Hello {$username} how are you today</p>";
 
 ?>
