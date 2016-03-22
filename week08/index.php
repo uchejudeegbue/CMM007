@@ -10,16 +10,6 @@
 
 <p>This text gets ignored by the web server and is sent straight down to the client</p>
 
-<?php
-
-echo "<p>This text is rendered first by the web server before being sent down</p>";
-
-$username = $_GET["username"];
-echo $username;
-
-echo "<p>Hello" . $username . "how are you today?</p>";
-echo "<p>Hello {$username} how are you today</p>";
-
-?>
+<a href="randompage.php?username=use">Name</a>
 </body>
 </html>
